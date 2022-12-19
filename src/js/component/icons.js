@@ -3,4 +3,4 @@ import { faClock } from '@fortawesome/free-solid-svg-icons'
 
 library.add(faClock)
 
-const clock = icon({ prefix: 'far', iconName: 'clock' })
+const clock = icon({ prefix: 'fa', iconName: 'clock' })
